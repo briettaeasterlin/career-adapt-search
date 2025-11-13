@@ -6,6 +6,8 @@ Built by Brietta Easterlin — 2025
 
 Career Adapt Search is a hands-on demo and learning project exploring MongoDB Atlas, Atlas Search (text search), O*NET skills data, and prototype career recommendation logic. It supports both my UW AI Product Management capstone (Career Adapt) and my interview preparation for MongoDB Search PM by demonstrating practical experience with indexes, developer workflows, data modeling, and product thinking.
 
+<img width="1920" height="1056" alt="Screenshot 2025-11-12 at 6 15 42 PM" src="https://github.com/user-attachments/assets/e782b73d-075e-49bb-85cc-fd7186c5003e" />
+
 ## Why MongoDB Atlas Search?
 
 Career Adapt needs flexible, fast search across messy, varied data: job postings, user skills, learning content, and O*NET’s hierarchical skill taxonomy. MongoDB Atlas Search is a strong fit because it provides:
