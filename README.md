@@ -118,6 +118,20 @@ npm run onet:search
 • Software Developers — score 7.92
 • Data Scientists — score 7.11
 
+### Frontend Prototype (Lovable)
+
+The Career Adapt prototype UI (built in Lovable) demonstrates how this MongoDB Search backend can power a real user experience for personalized career recommendations.
+
+Live preview: https://preview--grow-and-pivot.lovable.app/
+
+The frontend is not yet connected to this backend, but represents the intended user flow:
+- capture skills, interests, or resume data
+- call search endpoints (future)
+- display suggested occupations, roles, or learning paths
+- guide users through pivot plans and upskilling
+
+Connecting these two systems is part of the future roadmap.
+
 ### 🧩 Future Extensions
 
 Hybrid Career Match Pipeline
